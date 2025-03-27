@@ -1,0 +1,4 @@
+dist/face_lock filter=lfs diff=lfs merge=lfs -text
+build/face_lock/face_lock.pkg filter=lfs diff=lfs merge=lfs -text
+dist/Face[[:space:]]Captur[[:space:]]for[[:space:]]faceLock filter=lfs diff=lfs merge=lfs -text
+build/facerec/facerec.pkg filter=lfs diff=lfs merge=lfs -text
